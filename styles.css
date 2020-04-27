@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+  background: #f72210;
+}
+
+#Layer_1 {
+  fill: white;
+  height: 60px;
+  width: 360px;
+}
