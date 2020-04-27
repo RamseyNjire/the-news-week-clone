@@ -11,3 +11,12 @@ header {
   height: 60px;
   width: 360px;
 }
+
+.section-title {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.newsweek-icon {
+  background: url(https://web.archive.org/web/20200331023356im_/https://g.newsweek.com/themes/newsweek/favicons/android-chrome-192x192.png) center/contain-repeat no-repeat #f72210;
+  margin-right: 10px;
+}
