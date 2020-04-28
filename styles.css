@@ -50,3 +50,36 @@ header {
 .see-all-publications {
   color: inherit;
 }
+
+.in-the-magazine-column {
+  max-height: 345px;
+}
+
+.section-image {
+  border-radius: 0;
+  height: 190px;
+}
+
+.card-title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-title a {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.card-logo {
+  background: #f72210;
+}
+
+.card-text-anchor {
+  font-size: 20px;
+  color: black;
+}
+
+.card-text-anchor:hover {
+  color: black;
+  text-decoration-color: #f72210;
+}
