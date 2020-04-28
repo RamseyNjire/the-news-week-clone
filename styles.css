@@ -14,9 +14,39 @@ header {
 
 .section-title {
   border-bottom: 1px solid #d9d9d9;
+  font-size: 19px;
 }
 
 .newsweek-icon {
-  background: url(https://web.archive.org/web/20200331023356im_/https://g.newsweek.com/themes/newsweek/favicons/android-chrome-192x192.png) center/contain-repeat no-repeat #f72210;
+  display: block;
+  height: 28px;
+  width: 29px;
   margin-right: 10px;
+  background: #f72210;
+}
+
+.coronavirus-newsweek-container {
+  position: relative;
+}
+
+.image-anchor {
+  display: block;
+}
+
+.publication-date {
+  font-size: 1rem;
+  color: #f72210;
+  padding: 0 10px;
+  background: rgba(255,255,255,0.9);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.publication-date a {
+  color: inherit;
+}
+
+.see-all-publications {
+  color: inherit;
 }
