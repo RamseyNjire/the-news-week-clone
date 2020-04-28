@@ -83,3 +83,7 @@ header {
   color: black;
   text-decoration-color: #f72210;
 }
+
+.featured-image {
+  height: 206px;
+}
