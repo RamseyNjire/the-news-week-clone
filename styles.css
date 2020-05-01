@@ -27,26 +27,23 @@ header {
   background: #f72210;
 }
 
-.publication-date {
-  /* position: absolute;
-  left: 15px;
-  bottom: 0; */
-  /* height: auto;
-  width: auto; */
-  padding: 0 10px;
+.publication-date {  
   background: rgba(255,255,255,0.9);
-}
-
-.publication-date a {
+  padding: 0 10px;
   font-size: 1rem;
+  line-height: 1.5rem;
   color: #f72210;
   text-transform: uppercase;
   text-decoration: none;
 }
 
+.publication-date:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
 .cover-issue-link {
   height: auto;
-  margin: 0 15px;
   background: #f4f5f6;
   font-size: 20px;
   color: black;
