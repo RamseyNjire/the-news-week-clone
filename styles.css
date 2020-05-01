@@ -72,6 +72,12 @@ header {
   text-transform: uppercase;
 }
 
+.article-caption-header {
+  height: auto;
+  font-size: 20px;
+  line-height: 20px;
+}
+
 .article-caption {
   font-size: 20px;
   font-weight: bold;
