@@ -98,3 +98,34 @@ header {
 .in-focus {
   width: 100%;
 }
+
+
+/* FOCUS SECTIONS */
+.focus-section-title {
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 22px;
+  text-transform: uppercase;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.focus-section-title-link, .focus-section-title-link:hover{
+  color: #f72210;
+  text-decoration: none;
+}
+
+.small-article-header {
+  font-size: 17px;
+  line-height: 21px;
+  font-family: "Roboto Condensed",sans-serif;
+}
+
+.small-article-header a,
+.small-article-header a:visited {
+  text-decoration: none;
+  color: #000;
+}
+
+.small-article-header a:hover {
+  color: #f72210;
+}
