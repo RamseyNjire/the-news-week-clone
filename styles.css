@@ -105,8 +105,6 @@ header {
   font-weight: bold;
   font-size: 22px;
   line-height: 22px;
-  text-transform: uppercase;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .focus-section-title-link, .focus-section-title-link:hover{
@@ -117,7 +115,6 @@ header {
 .small-article-header {
   font-size: 17px;
   line-height: 21px;
-  font-family: "Roboto Condensed",sans-serif;
 }
 
 .small-article-header a,
