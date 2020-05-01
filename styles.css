@@ -12,6 +12,8 @@ header {
   width: 360px;
 }
 
+/* IN THE MAGAZINE SECTION */
+
 .section-title {
   border-bottom: 1px solid #d9d9d9;
   font-size: 19px;
@@ -25,65 +27,66 @@ header {
   background: #f72210;
 }
 
-.coronavirus-newsweek-container {
-  position: relative;
-}
-
-.image-anchor {
-  display: block;
-}
-
 .publication-date {
-  font-size: 1rem;
-  color: #f72210;
+  /* position: absolute;
+  left: 15px;
+  bottom: 0; */
+  /* height: auto;
+  width: auto; */
   padding: 0 10px;
   background: rgba(255,255,255,0.9);
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 
 .publication-date a {
-  color: inherit;
-}
-
-.see-all-publications {
-  color: inherit;
-}
-
-.in-the-magazine-column {
-  max-height: 345px;
-}
-
-.section-image {
-  border-radius: 0;
-  height: 190px;
-}
-
-.card-title {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.card-title a {
+  font-size: 1rem;
   color: #f72210;
+  text-transform: uppercase;
   text-decoration: none;
 }
 
-.card-logo {
-  background: #f72210;
+.cover-issue-link {
+  height: auto;
+  margin: 0 15px;
+  background: #f4f5f6;
+  font-size: 20px;
+  color: black;
+  text-align: center;
 }
 
-.card-text-anchor {
+.snippet-image {
+  max-width: 100%;
+  overflow: hidden;
+ }
+
+ .article-category {
+  color: #fff;
+  background-color: #f72210;
+  font-size:16px;
+  font-weight: bold;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.article-subcategory {
+  color: #f72210;
+  font-size:16px;
+  font-weight: bold;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.article-caption {
   font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
   color: black;
 }
 
-.card-text-anchor:hover {
+.article-caption:hover {
   color: black;
   text-decoration-color: #f72210;
 }
 
-.featured-image {
-  height: 206px;
+.in-focus {
+  width: 100%;
 }
