@@ -145,3 +145,26 @@ header {
 .small-article-header a:hover {
   color: #f72210;
 }
+
+/* FOOTER SECTION */
+
+.main-footer-content {
+  border-top: 2px solid #f4f5f6;
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.brand-link {
+  width: 236px;
+  height: 36px;
+  fill: #f72210;
+}
+
+.footer-copyright {
+  font-family: 'Arial','Helvetica',sans-serif;
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  color: #666;
+}
