@@ -168,3 +168,79 @@ header {
   text-transform: uppercase;
   color: #666;
 }
+
+.facebook, .twitter, .instagram, .linkedin, .tumblr {
+  text-decoration: none;
+  color: #666;
+  font-size: 24px;
+  line-height: 26px;
+}
+
+.tumblr {
+  font-size: 19px;
+}
+
+.twitter:hover, .linkedin:hover {
+  color: dodgerblue;
+}
+
+.tumblr:hover {
+  color: #333;
+}
+
+.instagram:hover {
+  color: blue;
+}
+
+.footer-links {
+  font-size: 14px;
+  line-height: 15px;
+  color: #666;
+  border-top-color: #d9d9d9;
+  border-top-style: solid;
+}
+
+.link-list li {
+  display: inline-block;
+  padding-right: 20px;
+  margin: 6px 0;
+  cursor: pointer;
+}
+
+.link-list li a:hover{
+  color: #000;
+}
+
+.link-list li a:link,
+.link-list li a:visited{
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  font-family: 'Arial','Helvetica',sans-serif;
+}
+
+.editions-label {
+  color: #666;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Arial','Helvetica',sans-serif;
+ }
+
+.editions li {
+  display: inline-block;
+  padding-right: 20px;
+  margin: 6px 0;
+  cursor: pointer;
+}
+
+.editions li a:hover{
+  color: #000;
+  text-decoration: none;
+}
+
+.editions li a:link,
+.editions li a:visited {
+  color: #666;
+  font-size: 14px;
+  font-family: 'Arial','Helvetica',sans-serif;
+}
