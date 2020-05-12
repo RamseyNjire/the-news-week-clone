@@ -29,6 +29,22 @@ header {
 
 /* OTHER CONTENT */
 
+/* CULTURE & TRAVEL */
+
+.culture-travel-title a, .culture-travel-title a:hover {
+  color: #272727;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.culture-travel-text {
+  font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+  font-size: 15px;
+  color: rgb(39,39,39,.5);
+}
+
 /* MORE STORIES */
 .more-story-heading {
   line-height: 17px;
