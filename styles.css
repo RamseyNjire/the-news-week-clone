@@ -13,6 +13,16 @@ header {
 }
 
 /* MAIN CONTENT SECTION */
+
+.main-content-title {
+  color: rgba(3,3,3,.4);
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 16px;
+  font-size: 16px;
+}
+
+/* FEATURED STORIES */
+
 .featured-story-header {
   line-height: 24px;
 }
