@@ -27,6 +27,25 @@ header {
   line-height: 24px;
 }
 
+/* OTHER CONTENT */
+
+/* MORE STORIES */
+.more-story-heading {
+  line-height: 17px;
+}
+.more-story-heading a {
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 1.2rem;
+}
+
+.more-story-heading a:hover{
+  text-decoration: underline;
+  text-decoration-color: #f72210;
+}
+
 /* IN THE MAGAZINE SECTION */
 
 .section-title {
