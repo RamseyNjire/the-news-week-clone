@@ -69,7 +69,7 @@ header {
   line-height: 17px;
 }
 
-.more-story-heading a {
+.more-story-heading-anchor {
   text-decoration: none;
   color: #000;
   font-size: 17px;
@@ -77,7 +77,7 @@ header {
   line-height: 1.2rem;
 }
 
-.more-story-heading a:hover {
+.more-story-heading-anchor:hover {
   text-decoration: underline;
   text-decoration-color: #f72210;
 }
@@ -89,13 +89,13 @@ header {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.media-heading a,
-.media-heading a:visited {
+.media-link,
+.media-link:visited {
   text-decoration: none;
   color: #000;
 }
 
-.media-heading a:hover {
+.media-link:hover {
   color: #f72210;
 }
 
@@ -422,7 +422,6 @@ header {
 }
 
 @media only screen and (min-width: 992px) {
-
   .large-screen-nav {
     background-color: #fff;
     color: #000;
