@@ -1,6 +1,6 @@
 # Newsweek Clone
 
-> This is an attempt at building the Newsweek Home page using Bootstrap. Most of the responsiveness was handled by Bootstrap, though some media queries were still required to style the header for different screen sizes. It's a great demonstration of the power of Bootstrap classes, and how a few classes in the HTML document can control how the page renders at different screen sizes
+> This is an attempt at building the Newsweek Home page using Bootstrap. Most of the responsiveness was handled by Bootstrap, though some media queries were still required to style the header for different screen sizes. It's a great demonstration of the power of Bootstrap classes, and how a few classes in the HTML document can control how the page renders at different screen sizes. The archieved web page that I tried to reproduce lives [here](https://web.archive.org/web/20200331020902if_/https://www.newsweek.com/) while the live demo is [here](https://raw.githack.com/RamseyNjire/the-news-week-clone/feature-branch/index.html). I tried to reproduce the main features and not the sponsored content and other components that weren't essential to the overall Newsweek 'feel'. I hope you like it!
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/RamseyNjire/the-news-week-clone/feature-branch/index.html)
 
 
 
