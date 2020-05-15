@@ -453,6 +453,19 @@ header {
     color: #f72210;
   }
 
+  #searchbar {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0,0, 0, 0.55);
+    width: 60px;
+  }
+
+  #search-icon {
+    height: 50%;
+    min-width: 20px;
+    background: url("https://g.newsweek.com/www/images/icon-search-glass.svg") center/contain no-repeat white;
+    margin-top: 5px;
+  }
+
   .bottom-nav {
     position: relative;
     background-color: #fff;
