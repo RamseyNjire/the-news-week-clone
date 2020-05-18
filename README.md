@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/RamseyNjire/the-news-week-clone/feature-branch/index.html)
+[Live Demo Link](https://rawcdn.githack.com/RamseyNjire/the-news-week-clone/99e2ba6d26dd76fc49b277bda2ef20463a74e293/index.html)
 
 
 
