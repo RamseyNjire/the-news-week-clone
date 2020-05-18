@@ -1,73 +1,38 @@
-# Project Name
+# Newsweek Clone
 
-> One paragraph statement about the project.
+> This is an attempt at building the Newsweek Home page using Bootstrap. Most of the responsiveness was handled by Bootstrap, though some media queries were still required to style the header for different screen sizes. It's a great demonstration of the power of Bootstrap classes, and how a few classes in the HTML document can control how the page renders at different screen sizes. The archieved web page that I tried to reproduce lives [here](https://web.archive.org/web/20200331020902if_/https://www.newsweek.com/) while the live demo is [here](https://raw.githack.com/RamseyNjire/the-news-week-clone/feature-branch/index.html). I tried to reproduce the main features and not the sponsored content and other components that weren't essential to the overall Newsweek 'feel'. I hope you like it!
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML 5,
+- CSS 3,
+- Bootstrap 4
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+[Live Demo Link](https://raw.githack.com/RamseyNjire/the-news-week-clone/feature-branch/index.html)
 
 
 
-## Authors
+## Built By:
 
-👤 **Author1**
+👤 **Ramsey Njire**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
+- Github: [@RamseyNjire](https://github.com/RamseyNjire)
+- Twitter: [@untakenramram](https://twitter.com/untakenramram)
+- Linkedin: [Ramsey Njire](https://www.linkedin.com/in/ramsey-njire-51984931/)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/RamseyNjire/the-news-week-clone/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
